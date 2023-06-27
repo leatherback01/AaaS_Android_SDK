@@ -1,4 +1,4 @@
-# AaaS_Android_SDK
+# ANDROID LAAS SDK
 #Introduction
 How to setup the ANDROID LAAS SDK 
 
